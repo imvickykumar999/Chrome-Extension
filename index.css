@@ -1,0 +1,71 @@
+body{
+    margin:0;
+    padding:0;
+    background-color:lightgray;
+}
+*::selection{
+    background-color:lightcoral;
+}
+.heading{
+    background-color:gray;
+    z-index:1;
+    position:sticky;
+    top:0;
+}
+.heading button{
+    margin:0 auto;
+    border:none;
+    background-color:gray;
+    font-size:1.2rem;
+    font-weight:bold;
+}
+.heading button a{
+    text-decoration:none;
+    color:black;
+    
+}
+.heading{
+    display:flex;
+}
+.profile{
+    margin:10px;
+}
+.someText{
+    font-size:20px;
+    letter-spacing:0.25px;
+    word-spacing:3.5px;
+}
+.profile_img{
+    display:inline-block;
+    border-radius:50%;
+    max-width:150px;
+}
+#home .description{
+    margin-top:20px;
+}
+#about h3{
+    margin:10px;
+}
+.description{
+    margin:0 10px;
+    font-size:1.05rem;
+    letter-spacing:0.17px;
+    line-height:25px;
+    text-align:justify;
+}
+iframe[name="container"]{
+    border:none;
+    margin:0;
+    width:100%;
+}
+@media only screen and (min-width:400px){
+    .profile{
+        display:flex;
+    }
+    .profile_img{
+        margin:auto 20px auto auto;
+    }
+    .someText{
+        margin:auto auto auto 20px;
+    }
+}
