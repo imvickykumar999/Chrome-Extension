@@ -13,7 +13,7 @@
 
 # How to Get Started ?
 
-## First of all put [manifest.json file](https://github.com/imvickykumar999/Chrome-Extension/blob/master/Oye-Vix20Portfolio/manifest.json) in folder, and dimension of [icon](https://github.com/imvickykumar999/Chrome-Extension/blob/master/email%20form/vix.png?raw=true) must be 128x128.
+## First of all put [manifest.json file](https://github.com/imvickykumar999/Chrome-Extension/blob/master/Oye-Vix%20Portfolio/manifest.json) in folder, and dimension of [icon](https://github.com/imvickykumar999/Chrome-Extension/blob/master/email%20form/vix.png?raw=true) must be 128x128.
 
 1. Open Google Chrome.
 2. Put chrome://extensions/ in serarch bar, press Enter.
