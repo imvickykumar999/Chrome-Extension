@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+
+  "name": "Vix Snake Game",
+  "description": "Quick launch",
+  "version": "1.0.1",
+  "icons": { "128": "snake.png" },
+  "browser_action": {
+    "default_icon": "snake.png",
+    "default_popup": "index.html"
+  },
+  "permissions": ["activeTab"]
+}
